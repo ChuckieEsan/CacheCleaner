@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/ico">
+        <file alias="mainico">Applications.ico</file>
+    </qresource>
+</RCC>
